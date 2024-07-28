@@ -2,6 +2,7 @@
 
 
 I am a passionate *gamer*, *programmer*, *Twitch Streamer* and *music lover*. I can work with **HTML**, **CSS** and I'm learning more about **Javascript** and **C#** programming languages.
+
 I am a good *project manager*. I also have a strong background in *electronics* including *microprocessor* programming.
 
 Recently, I've been working on a Twitch interactive game called **TWIT Z** (The Walking Interactive Twitch Zombies).
