@@ -64,11 +64,6 @@ def generate_oracle_response(query, memory):
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheOmegaFett&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheOmegaFett&theme=radical&hide_border=true" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TheOmegaFett&theme=dracula&area=true" alt="Activity Graph"/>
 </p>
 
 ---
